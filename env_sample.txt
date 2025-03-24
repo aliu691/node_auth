@@ -1,0 +1,6 @@
+PORT = 5001, 5000, ...
+MONGO_URI = cluster and project uri
+TOKEN_SECRET = token secret
+CODE_SENDING_EMAIL_ADDRESS = example@example.com
+CODE_SENDING_EMAIL_PASSWORD = google app password
+HMAC_VERIFICATION_SECRET = HMAC verification secret
